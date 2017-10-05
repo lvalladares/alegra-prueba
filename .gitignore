@@ -1,4 +1,12 @@
-.architect
-bootstrap.json
-build/
-ext/
+js/.architect
+js/bootstrap.json
+js/build/
+js/ext/
+
+php/application/configs/application\.ini
+
+alegra-php\.tar\.xz
+
+alegra-js\.tar\.xz
+
+docker-compose\.yml
